@@ -38,6 +38,8 @@ Uploaded images are processed temporarily and not retained unless saved.
 
 We implement technical safeguards to help protect your data.
 
+If you contact us for help or to share feedback, we may collect your email and message. We use this information only to respond and improve our services. We don’t share it or use it for marketing.
+
 Third-Party Services
 We use third-party services such as:
 
